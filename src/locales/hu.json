@@ -90,7 +90,7 @@
     "found_devices": "Talált eszközök",
     "unable_load_devices_prefix": "Nem sikerült betölteni az eszközt: ",
     "no_devices_found_period": "Nincs talált eszköz.",
-    "selected": "Kiválasztva"
+    "selected": "Kiválasztva",
     "pairing_in_progress_header": "Párosítás a {{device}} készülékkel...",
     "pairing_in_progress_hint": "Kérjük, oldja fel a készülék zárolását és kattintson a \"Trust,\" gombra, majd ha a rendszer kéri, írja be a jelszavát.",
     "pairing_cancel": "Megszakítás"
